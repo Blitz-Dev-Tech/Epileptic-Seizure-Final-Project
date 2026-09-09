@@ -1,0 +1,5 @@
+Patient,Windows,Seizures_True,CNN_Caught,SNN_Caught,CNN_FA,SNN_FA,CNN_Enrgy(mJ),SNN_Enrgy(mJ),CNN_Time(s),SNN_Time(s)
+chb08_05,899,49,38,38,0,0,54.37,6.75,1.18,41.63
+chb12_09,902,18,17,17,2,0,54.55,4.08,1.09,41.48
+chb14_11,899,11,0,0,7,0,54.37,3.7,1.1,43.24
+chb24_13,899,6,4,0,3,0,54.37,3.81,0.96,41.25

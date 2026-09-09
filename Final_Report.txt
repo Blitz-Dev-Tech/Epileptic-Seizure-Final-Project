@@ -1,0 +1,1872 @@
+
+==============================================================================================================
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+=== FINAL ARCHITECTURE COMPARISON RESULTS ===
+=
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+ Patient  Windows  Seizures_True  CNN_Caught  SNN_Caught  CNN_FA  SNN_FA  CNN_Enrgy(mJ)  SNN_Enrgy(mJ)  CNN_Time(s)  SNN_Time(s)
+chb01_03      899             12           8           7       3       4          54.37           4.56         1.61        39.63
+chb19_30      833             22          21          18       0       0          50.38           3.57         0.84        35.85
+chb08_02      899             44          41          37       7       0          54.37           6.66         0.90        38.90
+chb01_21      899             25          22          21       0       0          54.37           4.44         0.92        38.99
+-
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
+
+[ GLOBAL SUMMARY ]
+Total Windows Processed : 3530
+Total CNN Energy        : 213.49 mJ
+Total SNN Energy        : 19.23 mJ
+GLOBAL ENERGY SAVINGS   : >>> 90.99% <<<
+Avg CNN Latency/Window  : 1.21 ms
+Avg SNN Latency/Window  : 43.45 ms
+=
